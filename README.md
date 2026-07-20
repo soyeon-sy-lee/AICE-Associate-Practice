@@ -1,9 +1,23 @@
 # AICE-Associate-Practice
 
-AICE Associate 연습문제와 풀이
+AICE Associate 시험을 준비하는 분들을 위한 연습문제입니다.
 
-## Comments
+## 프로젝트 소개
 
-## Logs
+본 저장소는 AICE Associate 수준에 맞는 실전형 연습문제를 제공합니다.
 
-- 2026.01.12: start to learn github
+- 문제 초안은 ChatGPT를 활용하여 제작하였습니다.
+- 사용된 데이터는 공개(Open Data) 데이터를 기반으로 하며, 각 문제의 목적에 맞도록 직접 전처리하여 구성하였습니다.
+- 문제 검수, 데이터 전처리, 그리고 모든 풀이 및 해설은 직접 작성하였습니다.
+
+- ## 안내
+
+본 자료는 AICE Associate 학습을 위한 개인 프로젝트입니다.
+
+문제 또는 풀이에 오류가 있거나 개선 의견이 있으시면 언제든지 메일로 알려주시면 감사하겠습니다.
+
+## Contact
+
+문의 및 피드백은 아래 이메일로 부탁드립니다.
+
+**Email:** syl.soyeon.lee@gmail.com
